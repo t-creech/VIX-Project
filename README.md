@@ -20,7 +20,6 @@ Each notebook documents data preprocessing, model training, evaluation metrics a
 - `VIX_RF.ipynb` – random forest regression for VIX forecasting.
 - `VIX_LSTM.ipynb` – LSTM neural network for sequence prediction.
 - `data/` – raw and processed data (if included).
-- `environment.yml` / `requirements.txt` – Python dependencies.
 
 ## Objectives
 
